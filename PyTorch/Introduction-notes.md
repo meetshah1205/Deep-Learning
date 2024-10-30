@@ -160,4 +160,11 @@ You can check these references for that:
 - Computer Vision
 - Natural Language processing (NLP)
 <img style="border-radius:25px;" src="../misc/images/pytorch/Natutal-Language-Processing.png">
+
+**Translation and Speech Recognition are also called Sequence to Sequence (```seq2seq```)** as you put 1 sequence in and get one sequence out.
+
+**Computer vision and natural language processing are also called ```Classification/Regression```.
+
+## Now that was your foundation for the course, let's start talking about PyTorch.
+## Check <a href="./PyTorch-Notes.md">PyTorch-Notes.md </a> 
 </div>
